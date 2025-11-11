@@ -22,13 +22,8 @@
 5.Open in browser:
     http://127.0.0.1:5000
 
-6. Test connectivity (optional):
-   http://127.0.0.1:5000/ping
-
-7. Notes:
-   - Do not commit `.env` to GitHub (add it to .gitignore).
-   - Ensure deployment name and endpoint match your Azure resource.
 
 flask>=2.3.3
 openai>=1.1.0
 python-dotenv>=1.0.0
+
